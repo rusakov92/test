@@ -1,0 +1,3 @@
+ignnoreme
+ignorefolder/*
+!ignorefolder/.gitkeep
